@@ -1,0 +1,43 @@
+{
+  "TaxRateTable": [
+    {
+      "TaxRate": "10%",
+      "Single": "$11,600 or less",
+      "MarriedFilingJointly": "$23,200 or less",
+      "MarriedFilingSeparately": "$11,600 or less",
+      "HeadOfHousehold": "$16,550 or less"
+    },
+    {
+      "TaxRate": "12%",
+      "Single": "$11,601 to $47,150",
+      "MarriedFilingJointly": "$23,201 to $94,300",
+      "MarriedFilingSeparately": "$11,601 to $47,150",
+      "HeadOfHousehold": "$16,551 to $63,100"
+    },
+    {
+      "TaxRate": "22%",
+      "Single": "$47,151 to $100,525",
+      "MarriedFilingJointly": "$94,301 to $201,050",
+      "MarriedFilingSeparately": "$47,151 to $100,525",
+      "HeadOfHousehold": "$63,101 to $100,500"
+    },
+    {
+      "TaxRate": "24%",
+      "Single": "$100,526 to $191,950",
+      "MarriedFilingJointly": "$201,051 to $383,900",
+      "MarriedFilingSeparately": "$100,526 to $191,950",
+      "HeadOfHousehold": "$100,501 to $191,950"
+    },
+    {
+      "TaxRate": "32%",
+      "Single": "$191,951 to $243,725",
+      "MarriedFilingJointly": "$383,901 to $487,450",
+      "MarriedFilingSeparately": "$191,951 to $243,725",
+      "HeadOfHousehold": "$191,951 to $243,700"
+    },
+    {
+      "TaxRate": "35%",
+      "Single": "$243,726 to $609,350",
+      "MarriedFilingJointly": "$487,451 to $731,200",
+      "MarriedFilingSeparately": "$243,726 to $365,600",
+      "HeadOfHousehold": "$234,701 to $
